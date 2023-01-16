@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.jidekang.cf</id>
+    <title>纪德康博客</title>
+    <updated>2023-01-16T06:10:06.695Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.jidekang.cf"/>
+    <link rel="self" href="https://blog.jidekang.cf/atom.xml"/>
+    <subtitle>改变世界，改变自己——王力宏《改变自己》</subtitle>
+    <logo>https://blog.jidekang.cf/images/avatar.png</logo>
+    <icon>https://blog.jidekang.cf/favicon.ico</icon>
+    <rights>All rights reserved 2023, 纪德康博客</rights>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://blog.jidekang.cf/about/</id>
+        <link href="https://blog.jidekang.cf/about/">
+        </link>
+        <updated>2023-01-16T04:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>欢迎来到我的小站呀，很高兴遇见你！🤝</p>
+</blockquote>
+<h2 id="关于本站">🏠 关于本站</h2>
+<p>本站可以算是博主纪德康（本站站长）搭建的第三个博客网站了，呃......因为第一个站崩了；而第二个访问速度太慢了（这是因为用的海外服务器的原因。虽然本站好像也挺慢的，算了将就着看吧）。<br>
+最主要的原因还是站长太穷了，没money买好的服务器......</p>
+<h2 id="本站标语">💡  本站标语</h2>
+<p><em><strong>“改变世界，改变自己！”</strong></em><br>
+出自王力宏歌曲🎧《改变自己》歌词。</p>
+<h2 id="博主是谁">👨‍💻 博主是谁</h2>
+<p><strong>※本站搭建者兼管理员👔纪德康✨，拥有四年左右计算机💻网络基础，掌握易语言、HTML、PHP三种编程语言。</strong><br>
+纪德康10岁受游戏影响，萌发出想自己做游戏的奇特想法，因此他开始接触游戏开发引擎“Unity”，后来他在网上搜集大量资料、视频学习使用方法，最终以没有代码基础也不懂建模收尾；<br>
+11岁时他第一次接触了名为“易语言”的中文编程语言，通过一系列的自学过程，简略了解了代码编程的基本逻辑，自己开发出了一些简易软件。<br>
+12岁时纪德康在B站的推荐页上看到了别人搭建个人博客的视频，这一视频引起了他的兴趣，于是开始尝试搭建自己的博客（然后就有了前两个博客）。在这之后彻底勾起了他对搭建网站强烈的喜爱。后来他在那年搭建了各种各样的网站，如：<a href="https://www.uname.ga" target="_blank">UNAME</a>、<a href="jidekang.epizy.com">第二版博客</a>、<a href="https://www.jidekang.cf" target="_blank">纪德康网站中心</a>等。<br>
+13岁时他搭建了<a href="https://pan.hsssz709.ml" target="_blank">黄石十四中709网盘</a>与<a href="https://bbs.hsssz709.ml" target="_blank">黄石十四中709论坛</a>，这是他第一次【真正】接触PHP语言。随后他对网站日益优化，使他对PHP语言愈发熟练。后来他搭建了自己的安全网站认证导航<a href="https://gtrust.uname.ga" target="_blank">GTRUST中国站</a>，并创建了私有SSL根CA机构“GTRUST International Global Root CA”为更多网站提供安全保障服务。</p>
+<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
+<p>唱歌、编曲、骑自行车、画画、平面设计、编程（PHP、易语言、HTML）。</p>
+<h2 id="联系我呀">📬 联系我呀</h2>
+<p><strong>微信：txyyrdkm<br>
+QQ：txyyrdkm（1784756175）<br>
+商业合作：<a href="mailto:mail@jidekang.cf"  target="_blank">mail@jidekang.cf（邮箱）</a></strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纪德康新版博客上线！]]></title>
+        <id>https://blog.jidekang.cf/website-online/</id>
+        <link href="https://blog.jidekang.cf/website-online/">
+        </link>
+        <updated>2023-01-15T11:40:00.000Z</updated>
+        <content type="html"><![CDATA[<p>纪德康<a href="https://www.jidekang.cf" target="_blank">新版博客</a>于2023/1/15筹划搭建，并正式上线。<br>
+网站标语：改变世界，改变自己！（出自王力宏歌曲《改变自己》歌词。）<br>
+<img src="https://blog.jidekang.cf/post-images/1673782636163.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
